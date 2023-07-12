@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card{
+    color: black;
+    background-color: white;
+    width: 33%;
+    display: inline-block;
+    display: none;
+}
+
+.z{
+    color: white;
+    background-color: brown;
+    min-width: 400px;
+    height: 200px
+}
+
+
+
